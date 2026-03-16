@@ -1,0 +1,81 @@
+﻿@model practice1.Models.Employee
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<div class="container mt-5">
+
+    @if (TempData["massage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>Message!</strong> @TempData["massage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-6">
+
+            <div class="card shadow-lg">
+
+                <div class="card-header bg-info text-white text-center">
+                    <h3>Employee Details</h3>
+                </div>
+
+                <div class="card-body">
+
+                    <table class="table table-bordered">
+
+                        <tr>
+                            <th>Employee ID</th>
+                            <td>@Model.EmpId</td>
+                        </tr>
+
+                        <tr>
+                            <th>First Name</th>
+                            <td>@Model.FirstName</td>
+                        </tr>
+
+                        <tr>
+                            <th>Last Name</th>
+                            <td>@Model.LastName</td>
+                        </tr>
+
+                        <tr>
+                            <th>Phone</th>
+                            <td>@Model.Phone</td>
+                        </tr>
+
+                        <tr>
+                            <th>Department</th>
+                            <td>@Model.Department</td>
+                        </tr>
+
+                    </table>
+
+                    <div class="d-flex justify-content-between">
+
+                        <a class="btn btn-primary"
+                               asp-action="Edit"
+                               asp-route-id="@Model.EmpId">
+                            Edit
+                        </a>
+
+                        <a class="btn btn-secondary"
+                               asp-action="List">
+                            Back to List
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
