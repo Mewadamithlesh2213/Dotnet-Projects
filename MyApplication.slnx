@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MyApp.common/MyApp.common.csproj" Id="d7458f5b-aa4f-4f51-8bf6-dfa2ae44ce18" />
+  <Project Path="MyApp.DataAccessLayer/MyApp.DataAccessLayer.csproj" Id="95164e67-854b-4565-8d0c-40407cce55a7" />
+  <Project Path="MyApp.Models/MyApp.Models.csproj" Id="ab2d22a0-4d95-4744-aeea-ec39443995e2" />
+  <Project Path="MywebApplication/MywebApplication.csproj" />
+</Solution>

@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\MyApplication\MyApp.common\bin\Debug\net10.0\MyApp.common.deps.json
+C:\Users\hp\source\repos\MyApplication\MyApp.common\bin\Debug\net10.0\MyApp.common.dll
+C:\Users\hp\source\repos\MyApplication\MyApp.common\bin\Debug\net10.0\MyApp.common.pdb
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\MyApp.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\MyApp.common.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\MyApp.common.AssemblyInfo.cs
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\MyApp.common.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\MyApp.common.sourcelink.json
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\MyApp.common.dll
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\refint\MyApp.common.dll
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\MyApp.common.pdb
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\ref\MyApp.common.dll
+C:\Users\hp\source\repos\MyApplication\MyApp.common\obj\Debug\net10.0\MyApp.common.csproj.AssemblyReference.cache

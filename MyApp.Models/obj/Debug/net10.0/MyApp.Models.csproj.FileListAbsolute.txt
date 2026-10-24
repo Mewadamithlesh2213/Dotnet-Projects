@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\bin\Debug\net10.0\MyApp.Models.deps.json
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\bin\Debug\net10.0\MyApp.Models.dll
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\bin\Debug\net10.0\MyApp.Models.pdb
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Models.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Models.AssemblyInfo.cs
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Models.sourcelink.json
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Models.dll
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\refint\MyApp.Models.dll
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Models.pdb
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\ref\MyApp.Models.dll
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MyApplication\MyApp.Models\obj\Debug\net10.0\MyApp.Mo.0B6F9175.Up2Date

@@ -1,0 +1,106 @@
+﻿@using System.Linq
+@model MyApp.Models.ViewModels.CartVM
+
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
+
+<div class="container py-4">
+    <div class="d-flex align-items-center justify-content-between mb-4 border-bottom pb-3">
+        <h3 class="fw-bold mb-0 text-dark">
+            <i class="bi bi-cart3 me-2"></i>Shopping Cart
+        </h3>
+        <a asp-area="Customer" asp-controller="Home" asp-action="Index" class="btn btn-outline-primary btn-sm">
+            <i class="bi bi-arrow-left me-1"></i> Continue Shopping
+        </a>
+    </div>
+
+    @if (Model != null && Model.ListOfCart != null && Model.ListOfCart.Count() > 0)
+    {
+        <div class="row">
+            <div class="col-12">
+                @foreach (var item in Model.ListOfCart)
+                {
+                    <div class="card rounded-3 mb-3 shadow-sm border-0">
+                        <div class="card-body p-4">
+                            <div class="row d-flex justify-content-between align-items-center">
+                                
+                                <div class="col-md-2 col-lg-2 col-xl-2 text-center">
+                                    <img src="@(string.IsNullOrEmpty(item.Product?.ImageUrl) ? "/images/default-product.png" : item.Product.ImageUrl)"
+                                         class="img-fluid rounded-3" 
+                                         alt="@item.Product?.Name" 
+                                         style="max-height: 90px; object-fit: contain;" />
+                                </div>
+
+                                <div class="col-md-3 col-lg-3 col-xl-3">
+                                    <p class="lead fw-semibold mb-1">@item.Product?.Name</p>
+                                    <p class="text-muted small mb-0">
+                                        @Html.Raw(item.Product?.Description)
+                                    </p>
+                                </div>
+
+                                <div class="col-md-3 col-lg-2 col-xl-2 offset-lg-1 text-center text-md-start my-3 my-md-0">
+                                    <h5 class="mb-1 fw-bold">
+                                        &#8377;@item.Product?.Price.ToString("0.00") 
+                                        <span class="text-muted small fw-normal">x</span> 
+                                        @item.Count
+                                    </h5>
+                                    <span class="text-muted small">
+                                        Subtotal: &#8377;@((item.Product != null ? item.Product.Price * item.Count : 0).ToString("0.00"))
+                                    </span>
+                                </div>
+
+                                <div class="col-md-3 col-lg-3 col-xl-2 d-flex align-items-center justify-content-center justify-content-md-end">
+                                    <a asp-action="minus" asp-route-cartId="@item.Id" class="btn btn-outline-secondary btn-sm px-2 me-2">
+                                        <i class="bi bi-dash"></i>
+                                    </a>
+                                    
+                                    <span class="fw-bold px-2">@item.Count</span>
+
+                                    <a asp-action="plus" asp-route-cartId="@item.Id" class="btn btn-outline-secondary btn-sm px-2 ms-2 me-3">
+                                        <i class="bi bi-plus"></i>
+                                    </a>
+
+                                    <a asp-action="delete" asp-route-cartId="@item.Id" class="btn btn-outline-danger btn-sm px-2">
+                                        <i class="bi bi-trash"></i>
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                }
+
+                <div class="card shadow-sm border-0 rounded-3 mt-4">
+                    <div class="card-body p-4 d-flex flex-column flex-md-row justify-content-between align-items-center">
+                        <div class="mb-3 mb-md-0">
+                            <span class="text-muted d-block small">Grand Total</span>
+                            <h3 class="mb-0 fw-bold text-primary">
+                                &#8377;@Model.Total.ToString("0.00")
+                            </h3>
+                        </div>
+                        <div>
+                            <a asp-action="Summary" class="btn btn-success btn-lg px-4 fw-semibold shadow-sm">
+                                Proceed to Checkout
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="card border-0 shadow-sm rounded-3 text-center py-5">
+            <div class="card-body">
+                <i class="bi bi-cart-x text-muted" style="font-size: 3.5rem;"></i>
+                <h4 class="fw-bold mt-3">Aapka Cart Khali Hai</h4>
+                <p class="text-muted">Aapne abhi tak koi item cart mein add nahi kiya hai.</p>
+                <a asp-area="Customer" asp-controller="Home" asp-action="Index" class="btn btn-primary mt-2">
+                    Browse Products
+                </a>
+            </div>
+        </div>
+    }
+</div>

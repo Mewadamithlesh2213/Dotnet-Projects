@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\MyApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2D22A0-4D95-4744-AEEA-EC39443995E2}|MyApp.Models\\MyApp.Models.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.models\\viewmodels\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2D22A0-4D95-4744-AEEA-EC39443995E2}|MyApp.Models\\MyApp.Models.csproj|solutionrelative:myapp.models\\viewmodels\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2D22A0-4D95-4744-AEEA-EC39443995E2}|MyApp.Models\\MyApp.Models.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2D22A0-4D95-4744-AEEA-EC39443995E2}|MyApp.Models\\MyApp.Models.csproj|solutionrelative:myapp.models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7458F5B-AA4F-4F51-8BF6-DFA2AE44CE18}|MyApp.common\\MyApp.common.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.common\\myapp.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7458F5B-AA4F-4F51-8BF6-DFA2AE44CE18}|MyApp.common\\MyApp.common.csproj|solutionrelative:myapp.common\\myapp.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\irepository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\irepository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\irepository\\iapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\irepository\\iapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\infrastructure\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\infrastructure\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95164E67-854B-4565-8D0C-40407CCE55A7}|MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj|solutionrelative:myapp.dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|c:\\users\\hp\\source\\repos\\myapplication\\mywebapplication\\mywebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C23344E4-08F1-693E-C70E-B8FD9F118E7A}|MywebApplication\\MywebApplication.csproj|solutionrelative:mywebapplication\\mywebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2D22A0-4D95-4744-AEEA-EC39443995E2}|MyApp.Models\\MyApp.Models.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2D22A0-4D95-4744-AEEA-EC39443995E2}|MyApp.Models\\MyApp.Models.csproj|solutionrelative:myapp.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7458F5B-AA4F-4F51-8BF6-DFA2AE44CE18}|MyApp.common\\MyApp.common.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.common\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7458F5B-AA4F-4F51-8BF6-DFA2AE44CE18}|MyApp.common\\MyApp.common.csproj|solutionrelative:myapp.common\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7458F5B-AA4F-4F51-8BF6-DFA2AE44CE18}|MyApp.common\\MyApp.common.csproj|c:\\users\\hp\\source\\repos\\myapplication\\myapp.common\\websiteroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7458F5B-AA4F-4F51-8BF6-DFA2AE44CE18}|MyApp.common\\MyApp.common.csproj|solutionrelative:myapp.common\\websiteroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:11:46.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:10:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartVm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.Models\\ViewModels\\CartVm.cs",
+              "RelativeDocumentMoniker": "MyApp.Models\\ViewModels\\CartVm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.Models\\ViewModels\\CartVm.cs",
+              "RelativeToolTip": "MyApp.Models\\ViewModels\\CartVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T10:55:40.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MywebApplication\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAswK0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T10:26:39.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "MywebApplication\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-24T09:47:44.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Controllers\\CartController.cs*",
+              "RelativeToolTip": "MywebApplication\\Areas\\Customer\\Controllers\\CartController.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T09:47:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MywebApplication\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-24T10:30:12.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MywebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MywebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-24T08:36:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MywebApplication\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-24T08:10:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:35:46.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\Repository\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\Repository\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\Repository\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\Repository\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:32:49.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:15:46.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IApplicationUser.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IApplicationUser.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IApplicationUser.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:14:53.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "MywebApplication\\Areas\\Customer\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T12:45:52.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:39:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:12:30.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Infrastructure\\IRepository\\ICartRepository.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Infrastructure\\IRepository\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:12:17.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "MywebApplication\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-24T06:08:05.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.Models\\Cart.cs",
+              "RelativeDocumentMoniker": "MyApp.Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.Models\\Cart.cs",
+              "RelativeToolTip": "MyApp.Models\\Cart.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T12:51:09.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyApp.common.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.common\\MyApp.common.csproj",
+              "RelativeDocumentMoniker": "MyApp.common\\MyApp.common.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.common\\MyApp.common.csproj",
+              "RelativeToolTip": "MyApp.common\\MyApp.common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-23T11:28:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.common\\EmailSender.cs",
+              "RelativeDocumentMoniker": "MyApp.common\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.common\\EmailSender.cs",
+              "RelativeToolTip": "MyApp.common\\EmailSender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:58:47.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "MywebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:33:05.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MywebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MywebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAHcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-23T11:33:02.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebSiteRoles.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.common\\WebSiteRoles.cs",
+              "RelativeDocumentMoniker": "MyApp.common\\WebSiteRoles.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.common\\WebSiteRoles.cs",
+              "RelativeToolTip": "MyApp.common\\WebSiteRoles.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:29:18.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyApp.DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyApp.DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBtwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:11:42.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MyApp.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MyApp.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MyApp.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:05:19.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MywebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\Program.cs",
+              "RelativeToolTip": "MywebApplication\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T10:30:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MywebApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\MywebApplication.csproj",
+              "RelativeDocumentMoniker": "MywebApplication\\MywebApplication.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyApplication\\MywebApplication\\MywebApplication.csproj",
+              "RelativeToolTip": "MywebApplication\\MywebApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-23T10:30:45.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

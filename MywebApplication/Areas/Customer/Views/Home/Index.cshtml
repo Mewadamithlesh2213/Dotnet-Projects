@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MyApp.Models.Product>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row pb-4 g-4">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card h-100 shadow-sm border-0">
+                <img src="@(string.IsNullOrEmpty(item.ImageUrl) ? "/images/default-product.png" : item.ImageUrl)"
+                     class="card-img-top rounded"
+                     alt="@item.Name"
+                     style="height: 220px; object-fit: cover;" />
+
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-dark">@item.Name</h5>
+                    <p class="card-text text-muted mb-3">
+                        <b>Price: </b>&#8377;@item.Price.ToString("0.00")
+                    </p>
+                    <div class="mt-auto">
+                        <a asp-action="Details" asp-controller="Home" asp-route-ProductId="@item.Id" class="btn btn-primary w-100">
+                            Details
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
